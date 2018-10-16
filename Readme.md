@@ -4,4 +4,3 @@
 
 2 - gatos.
 
-3 - cachorros.
