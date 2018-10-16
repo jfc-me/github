@@ -1,7 +1,7 @@
 #git and github
 
-pinguins.
+1 - pinguins.
 
-gatos.
+2 - gatos.
 
-cachorros.
+3 - cachorros.
